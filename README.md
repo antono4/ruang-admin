@@ -1,47 +1,67 @@
-# RuangAdmin
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-> **Created by Antono**
+<h1 align="center">RuangAdmin - Dashboard 👋</h1>
 
+<p align="center">
+  <strong>Are you sure you want to logout?</strong>
+</p>
 
-RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4
+<p align="center">
+  <a href="https://github.com/antono4/ruang-admin"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/ruang-admin-blue?logo=github"></a>
+  <a href="https://antono4.github.io/ruang-admin/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-2059-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 11:15:19 WIB-lightgrey">
+</p>
 
--------------------
+---
 
-**RuangAdmin** is responsive admin template. Based on Bootstrap 4 Framework. Highly customizable and easy to use. 
+## 📖 Tentang
 
-**You can review it on [RuangAdmin - Demo](https://indrijunanda.github.io/RuangAdmin/)**
+Repository **`ruang-admin`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/ruang-admin/`](https://antono4.github.io/ruang-admin/).
 
-!["RuangAdmin Screenshot"](https://indrijunanda.github.io/RuangAdmin/img/screenshot/ss2.png "RuangAdmin Screenshot")
+## 🗂️ Struktur Proyek
 
-## Contribution 
+```
+ruang-admin/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
 
-Here is how : 
+## 🛠️ Teknologi
 
-- Fork the repository
-- Clone with ```git clone https://github.com/indrijunanda/RuangAdmin.git```
-- Or Download zip
+Berdasarkan isi repository, proyek ini menggunakan:
 
+- `HTML`
+- `CSS`
+- `SCSS`
+- `JavaScript`
 
-## Integrated
+> Total **2059 file** terdeteksi di repository.
 
-- **[CodeIgniter](https://github.com/Codeigniter-Template/Ruang-Admin-Template)** by Codeigniter Template
-- **[Laravel](https://github.com/putralangkat97/ruang-admin-laravel-6)** by putralangkat97
+## 🚀 Menjalankan Secara Lokal
 
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
 
-## License
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
 
-RuangAdmin is an open source and licensed under **[MIT](http://opensource.org/licenses/MIT)**
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
 
+## 📬 Kontak
 
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/ruang-admin/](https://antono4.github.io/ruang-admin/)
 
--------------------
-### Cheers Up!
+## 📄 Lisensi
 
-*Happy Developing and Learning* 💪
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
+---
 
-
-Regards 😁😁
-
-
-
+<sub>README ini di-generate otomatis pada **2026-08-13 11:15:19 WIB** oleh GitHub Actions .</sub>
