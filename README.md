@@ -1,1 +1,26 @@
-Last updated: 2026-10-20 23:51:36 WIB
+# ruang-admin
+
+
+
+## 📋 Overview
+
+This repository contains **2064 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-20 23:54:53 WIB*
